@@ -1,0 +1,26 @@
+.a1-c1{
+    background-image: linear-gradient(to bottom left, #f5b95e, rgb(217, 255, 155));
+    height: 100vh;
+    
+}
+.a1-c11{
+    background:linear-gradient(145deg,rgb(250, 192, 76),#fff);
+    padding:30px;
+    border-radius: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    box-shadow: 10px 5px 50px rgb(245, 130, 88);
+}
+
+
+.a1-f11{
+    background:linear-gradient(45deg,#ced687,#fff);
+    height: 40px;
+    width: 20vw;
+    border:0;
+    border-radius: 10px;
+    color: #8d1f06e3;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
